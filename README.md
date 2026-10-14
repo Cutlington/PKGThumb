@@ -1,6 +1,7 @@
-<img width="1451" height="1285" alt="PKGThumb Preview" src="https://github.com/user-attachments/assets/9d7862af-c40e-46a1-ab7e-c1bdd6b98fb6" />
 PkgThumb - PS4 .pkg icons in Windows Explorer
 =============================================
+
+<img width="1451" height="1285" alt="PKGThumb Preview" src="https://github.com/user-attachments/assets/9d7862af-c40e-46a1-ab7e-c1bdd6b98fb6" />
 
 MADE BY CUTLINGTON WITH CLAUDE AI
 
