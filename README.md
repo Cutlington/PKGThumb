@@ -1,4 +1,4 @@
-PkgThumb - PS4 .pkg icons in Windows Explorer
+PKGThumb - PS4 .pkg icons in Windows Explorer
 =============================================
 
 <img width="2518" height="1282" alt="PKGThumb Preview" src="https://github.com/user-attachments/assets/65979b26-ba93-493d-a44b-8ec1985bf64d" />
